@@ -52,7 +52,6 @@ I thought I could cover this case if I'll resize images to the same dimensions a
 After some research I found a way or two how this case might be covered, but it would require more time than I expect this challenge is build for. Please let me know if I'm wrong :)
 
 ## Author
-Andrius Marciulionis    
-anmarciulionis@gmail.com
+Andrius M
 
 Code written and tested on Windows 10 OS
