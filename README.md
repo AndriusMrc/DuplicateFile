@@ -22,7 +22,7 @@ Write a command-line program which finds files which have exactly the same conte
 - Apache Maven
 
 ## Instruction to run in Command Line
-- Go to `./DuplicateFile` directory
+- Go to project's directory, e.g. `./DuplicateFile-main`
 - Run `javac ./src/main/java/com/duplicatefile/*.java`
 - Run `java -cp src/main/java/ com.duplicatefile.DuplicateFileSearch` to search for duplicate files in Cogent provided data set
 - Run `java -cp src/main/java/ com.duplicatefile.DuplicateFileSearch "./locationWhereToLookForDuplicateFiles"` search for duplicate files in specified location. Only the first argument will be used.
